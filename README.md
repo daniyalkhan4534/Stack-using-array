@@ -8,4 +8,4 @@ Push operation: Adding an element to the top of the stack : adding it to the st
 
 Pop operation: Pop operation refers to the removal of an element from a stack by removing it from the top of the stack. 1.When an element is removed from the stack, the value of the variable top is increased by 1 2. The stack's topmost element is saved in a different variable, and the top is then decremented by 1. The operation's result is the removed value that was previously saved in another variable.
 
-![image](https://user-images.githubusercontent.com/127819492/234405109-e77127fb-1207-4bef-8bd3-aca2c398a1b2.png)
+![image](https://user-images.githubusercontent.com/127819492/234472886-abc94088-1083-43c0-9ed3-8b19990e1602.png)
